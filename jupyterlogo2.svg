@@ -11,9 +11,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="8.5in"
-   height="14in"
-   viewBox="0 0 215.9 355.6"
+   width="0.60666203in"
+   height="0.61242253in"
+   viewBox="0 0 15.409216 15.555532"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
@@ -76,9 +76,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90507812"
-     inkscape:cx="316.02935"
-     inkscape:cy="560"
+     inkscape:zoom="2.3404755"
+     inkscape:cx="65.831411"
+     inkscape:cy="-5.2460793"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -87,7 +87,11 @@
      inkscape:window-height="855"
      inkscape:window-x="370"
      inkscape:window-y="26"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -104,18 +108,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,58.6)">
+     transform="translate(-46.245439,-140.93352)">
     <path
        style="opacity:1;vector-effect:none;fill:#fffaff;fill-opacity:1;stroke:none;stroke-width:0.16303927;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:15;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path1199"
        sodipodi:type="arc"
-       sodipodi:cx="53.950047"
-       sodipodi:cy="148.71129"
+       sodipodi:cx="53.924133"
+       sodipodi:cy="148.78667"
        sodipodi:rx="7.7046075"
        sodipodi:ry="7.7777662"
        sodipodi:start="0"
        sodipodi:end="6.270968"
-       d="m 61.654654,148.71129 a 7.7046075,7.7777662 0 0 1 -7.681075,7.77773 7.7046075,7.7777662 0 0 1 -7.727996,-7.73022 7.7046075,7.7777662 0 0 1 7.633867,-7.82495 7.7046075,7.7777662 0 0 1 7.774629,7.68242 l -7.704032,0.095 z" />
+       d="m 61.628741,148.78667 a 7.7046075,7.7777662 0 0 1 -7.681075,7.77773 7.7046075,7.7777662 0 0 1 -7.727996,-7.73022 7.7046075,7.7777662 0 0 1 7.633867,-7.82495 7.7046075,7.7777662 0 0 1 7.774629,7.68242 l -7.704033,0.095 z" />
     <g
        figma:type="canvas"
        transform="matrix(0.26458333,0,0,0.26458333,-386.03397,-507.63881)"
